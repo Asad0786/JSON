@@ -140,6 +140,12 @@
     }
   ],
   "widgets": [
+     {
+      "title": "Avocado got an update!",
+      "description": "Two new vibrant widgets are added, check it now!",
+      "url": "https://twitter.com/mhcharlee/status/1311295152233865216?s=20",
+      "image": "https://github.com/greyhound2888/kwgt/raw/master/kwgt_07.jpgf"
+    },
     {
       "title": "Neuon kwgt gets an update",
       "description": "This new update brings 7 light widgets. Now there are total of 63 light and dark polished widgets in the pack.",
